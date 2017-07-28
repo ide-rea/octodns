@@ -1,3 +1,4 @@
+cool 
 <img src="/docs/logos/octodns-logo.png?" height=251 width=404>
 
 ## DNS as code - Tools for managing DNS across multiple providers
